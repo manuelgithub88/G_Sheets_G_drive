@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "automatizacion-rpa",
+  "private_key_id": "d6d0be7f89b80d3bd530c14be1b35797552c867c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC64h8kobFOnT0r\nw2n+5kEs8uif1nqvLZZNQOMytXCowq+KAp4rlKHgvWQOjVn9rXA8flDaKMccvCkc\nlM54FXHV5yIcW8btskMN3KllAujD0/i94RFfx1ze0LkQwwLvW/wHOZ3P0Gy93Zru\n967qCWMxFuXOr8qVvQoyO3gzKSviv3LLwoMnr+sg+HURVT6Vv1s6LIEe2v2KRKoV\nYXX93JH6ajz2XqH2EvgOUcetsYFnC+oaDjI9nlWii9e18qDsIwVKnHcBeTyeT+M2\nWQedNcBHkR1eRVAnKwjyKcRD8LgmrV20S0pxf+cTCUoYYqt2i5EGHA6NKK9X/zgJ\n/009NOcTAgMBAAECggEAE9daExuPpZcQHYtbv5JWrR0FEaNF1z9xy7Xt6T5WPbSd\nyntIq7vWC/RPoTPksAgv+Fw43VCjAyv++WfbG+i680jc2EHuNuJMODaLTYwnhlME\n/7Pbkl2qQIXMgDkUILGVanb1iFDKmsXiYyisy3A/tcCGmZEUYx107axesJ/YZvRZ\nl8n0vetg3lZ9OBkesI/EC/WzdnInIbmgUKN05XAOXD+55q2aNGxJCwuFocWG8Pir\nDY1utUXoL8dkIS+v14p/+BLRBV55ZmjYlyOgkbVDsUvT+KsqiDqHuVBCL19HNzpw\nVMNPhTpBp+j3RepPC+53zHGAvFdU0zUTtZVC7CSRMQKBgQD92FP51auxtPUEmN0o\niv7slkjXvA/aecSGD+wZxDm8Vf+cLeLH8GCXp8RI+COrG+CGVQwd5xNXFEZ9bF5n\n3Uhme2VlgAICAAJ5FspyqBRy/Qckn7zpK5XdQLEplAPTBsp4Kn6u3aAbIvgMSKGh\nl9txNu1eNRdwLKRePie2c+XzbQKBgQC8eESluoB6s6J4sL+nmoTOdQZ9AlarIF3s\nKTqVXgZ5powaeg+mcE1wPvGLdxyjWtt56QvuHy9T/64RDLtCIyaT0wM5h179zh+I\n4c/J0MkYqGBsZo7Ci0D97fVGTK4IR3zHGo2JFpF4adObmWP+FmjB4dMuGv1o3zLc\nWPD0/ws0fwKBgGTMikwi9NLUMJdqvCdlSmVYKATCwOjYgZlaqT5yFRscayvxbKRI\nZ5LRI7h2EHPZ1gaBrxYQtDVX78XOSo6j6CQJy/HKKwHwTwsWab2t0LD4mOWKKNHO\nZOw+zBrek8YwZCXjefqmNvWPpT/7d3NbgeArF4bZPj1k/MAPnmVtEFrhAoGAYuIz\nGkT0/evb9bi+haBjx7LMubANavGrdanYC+BuQ0tnvMiIB4pqhtbvgn33L5oPBzKH\nyOLhwQ+n81gbs8KfjfWrfnaRF1cbYoUfsUJzEBXfqWBRzK6lZdWA1+aJdNyVEh3T\nXrbRkjzsAnqDZR+6zObAFzOf+3MHy2Z63gAmj98CgYAkvBBm2sm8ovXcyffPra01\n35sgkn0+GEE3qj0kFL/eyOLjKBTfQjelZmKBbQBCxYM1Ahf7ySEc/Ihh3oRQbca7\nGiA2IMPF2lgNX1vAxTGr52BnBO45frnZLo+6eWLo75m5BaxWxTYJ/2rges2fa+Np\nRN87hcuJNwHMFsTiKcyaog==\n-----END PRIVATE KEY-----\n",
+  "client_email": "igu-gest-api-google-rpa@automatizacion-rpa.iam.gserviceaccount.com",
+  "client_id": "114724303638124970780",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/igu-gest-api-google-rpa%40automatizacion-rpa.iam.gserviceaccount.com"
+}
